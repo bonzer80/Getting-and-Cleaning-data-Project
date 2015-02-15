@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-data-Project
-Getting-and-Cleaning-data-Project
-This is a repository for any and all code written for the Getting and Cleaning Data Coursera course on Coursera.
+
+This repo is for code written for the Project for Getting and Cleaning Data course on Coursera.
 
 Project:
 
